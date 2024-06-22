@@ -1,0 +1,35 @@
+{
+  "description": "TON SKUFERS COMMUNITY NFT WILL LET YOU GIVE UP CHEAP BEER. WE ARE BUILDING THE BIGGEST ECOSYSTEM ON TON! OWNING JPEG DATA MEANS SAYING GOODBYE TO FACTORY AND POVERTY",
+  "image": "https://qteamorg.github.io/skufers-NFT/324.png",
+  "content_type": "image/png",
+  "content_url": "https://qteamorg.github.io/skufers-NFT/324.png",
+  "attributes": [
+    [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Person",
+        "value": "Default"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Shirt Sailor"
+      },
+      {
+        "trait_type": "Hairstyle",
+        "value": "Khovansky"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Cap FBI"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Sunglasses"
+      }
+    ]
+  ],
+  "name": "SKUFERS COLLECTION #324"
+}
